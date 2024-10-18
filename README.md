@@ -3,6 +3,9 @@ Prepared by: Taofeek Agboola
 
 Date: 18/10/24
 
+### Project Reference Architectural Diagram
+![Architecture diagram](https://raw.githubusercontent.com/taofeeklanre/Scaling-a-High-Traffic-E-Commerce-Platform/ee079cace16f86b9d28cd0042449d118cf94d132/Scalable%20Architectural%20diagram.jpeg)
+
 ## Table of Contents
 
 1.	#### Introduction
@@ -93,7 +96,8 @@ o	On-Demand Mode: I will switch DynamoDB to on-demand capacity mode to automatic
 
 •	Event-Driven Architecture: I will use Amazon SQS to handle spikes in asynchronous tasks, such as order processing or user notifications.
 
-SCALABLE AWS CLOUD ARCHITECTURAL DIAGRAM WITH EKS CLUSTER
+### Project Reference Architectural Diagram
+![Architecture diagram](https://raw.githubusercontent.com/taofeeklanre/Scaling-a-High-Traffic-E-Commerce-Platform/ee079cace16f86b9d28cd0042449d118cf94d132/Scalable%20Architectural%20diagram.jpeg)
  
 4. ## Load Testing
 To validate the platform’s ability to handle peak traffic, I will set up a load-testing environment as follows:
@@ -124,8 +128,8 @@ By conducting a thorough root cause analysis, implementing a robust scaling stra
 Thank you for the opportunity to present this assessment. I am open to discussing any part of the process for further clarification.
 Best regards,
 Taofeek Agboola
-[Your Contact Information]
-Attachments:
 
-•	PDF of this assessment
-
+###### Contact Information 
+Email: taolanre99@gmail.com
+LinkedIn: My LinkedIn Profile
+Medium Blog: @my-medium blog
