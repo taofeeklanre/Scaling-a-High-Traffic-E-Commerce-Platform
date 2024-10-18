@@ -130,6 +130,6 @@ Best regards,
 Taofeek Agboola
 
 ###### Contact Information 
-Email: taolanre99@gmail.com
-LinkedIn: My LinkedIn Profile
-Medium Blog: @my-medium blog
+- **Email:** [taolanre99@gmail.com](mailto:taolanre99@gmail.com)
+- **LinkedIn:** [My LinkedIn Profile](https://www.linkedin.com/in/taofeek-agboola/)
+- **Medium Blog:** [@my-medium blog](https://medium.com/@lanretaofiq4)
